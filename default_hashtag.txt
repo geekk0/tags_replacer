@@ -1,0 +1,20 @@
+<element name="element_name" updated="2021-12-24T13:19:53Z" showautodescription="true" layer="[MAIN]" description="element_description" modified_date="2021-12-24T13:19:53.987Z" modified="true">
+             <ref name="master_template">/VizRundown/channels/CH2-Backup/mastertemplates/HarrisID</ref>
+             <entry name="default_alternatives"/>
+             <entry name="template_path">/VizRundown/channels/CH2-Backup/sceneinfos/</entry>
+             <entry name="settings">
+             <entry name="isfilescript">false</entry>
+             </entry>
+             <entry name="data">
+
+                 <entry name="ATime"/>
+                 <entry name="ATxt"/>
+                 <entry name="D"/>
+				 <entry name="HarrisID">element_name</entry>
+				 <entry name="QR">element_qr_path</entry>
+				 <entry name="S"/>
+				 <entry name="T"/>
+			 </entry>
+             <entry name="dblink"/>
+             <entry name="payload_xml" usage="updating"><payload xmlns="http://www.vizrt.com/types"><field name="ATime"><value></value></field><field name="ATxt"><value/></field><field name="D"><value/></field><field name="HarrisID"><value>X</value></field><field name="S"><value/></field><field name="T"><value/></field></payload></entry>
+</element>
